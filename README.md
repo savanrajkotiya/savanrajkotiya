@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/savanrajkotiya" target="blank"><img src="https://img.shields.io/twitter/follow/savanrajkotiya?logo=twitter&style=for-the-badge" alt="savanrajkotiya" /></a> </p>
 
-- 💬 Ask me about **Angular , React , Vue , Javascript , NodeJs**
+- 💬 Ask me about **Angular , React , Vue , Javascript , NodeJs , Next JS**
 
 - 📫 How to reach me **savanrajkotiya@gmail.com**
 
