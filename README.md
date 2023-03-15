@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Savan</h1>
 <h3 align="center">A passionate Javascript Dev from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savanrajkotiya" alt="savanrajkotiya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/savanrajkotiya" target="blank"><img src="https://img.shields.io/twitter/follow/savanrajkotiya?logo=twitter&style=for-the-badge" alt="savanrajkotiya" /></a> </p>
 
-- 💬 Ask me about **Angular , React , Vue , Javascript , NodeJs , Next JS**
+- 💬 Ask me about **Angular, React, VueJs, Javascript, NodeJs, Next JS, SolidJs **
 
 - 📫 How to reach me **savanrajkotiya@gmail.com**
 
